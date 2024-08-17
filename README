@@ -1,0 +1,14 @@
+zig-bntx
+--------
+
+use zig 0.14
+outputs raw data (unswizzled)
+currently not handling TileMode field
+
+build
+-----
+zig build-exe build.zig
+
+run
+---
+./main bntxfile.bntx outfile.data
