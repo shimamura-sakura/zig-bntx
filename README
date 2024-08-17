@@ -2,7 +2,7 @@ zig-bntx
 --------
 
 use zig 0.14
-outputs raw data (unswizzled)
+outputs raw data (unswizzled blocks), you need to load it by yourself
 currently not handling TileMode field
 
 build
