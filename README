@@ -7,7 +7,7 @@ currently not handling TileMode field
 
 build
 -----
-zig build-exe build.zig
+zig build-exe main.zig
 
 run
 ---
